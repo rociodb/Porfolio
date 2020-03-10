@@ -1,2 +1,1 @@
-# Porfolio
-Este es el que hice en clase
+Ignora este porfolio
